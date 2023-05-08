@@ -2,4 +2,6 @@
 
 Problem Statement: Given an array of integers nums, calculate the pivot index of this array. The pivot index is the index where the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right. If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left. This also applies to the right edge of the array. Return the leftmost pivot index. If no such index exists, return -1.
 
-Solution of problem 724 pivot index in python3. 
+![image](https://user-images.githubusercontent.com/91381804/236924596-a6102fff-a403-4947-bbc9-1452e44645f7.png)
+![image](https://user-images.githubusercontent.com/91381804/236924645-1b6bda95-7fba-4f1a-a94a-cd99e2a5e54e.png)
+
