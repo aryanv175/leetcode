@@ -6,3 +6,5 @@ A subsequence of a string is a new string that is formed from the original strin
 
 ![alt text](https://user-images.githubusercontent.com/91381804/236922805-c3328ef3-324f-48a3-a60f-177fc7e47ecf.png)
 
+![image](https://user-images.githubusercontent.com/91381804/236923055-eebff98b-1ce7-4398-9bc7-b49d47cfd0f3.png)
+
