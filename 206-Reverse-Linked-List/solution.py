@@ -14,6 +14,7 @@ class ListNode:
            Second: None <- 1 -> 2 -> 3
            Third: None <- 1 <- 2 -> 3
            and so on."""
+
 def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
    prev = None
