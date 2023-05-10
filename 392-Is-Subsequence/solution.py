@@ -1,3 +1,10 @@
+# 392-Is-Subsequence
+""" Logic: Use a loop to go through the string
+           s, store the indexes of the letters
+           of s in a list, make sure the list
+           is in ascending order. If that is the
+           case, return True, otherwise False."""
+
 def isSubsequence( s: str, t: str) -> bool:
       list1 = []
       last = 0
