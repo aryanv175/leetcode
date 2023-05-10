@@ -3,6 +3,10 @@ class ListNode:
         self.val = val
         self.next = next
         
+# 21-Merge-Two-Sorted-Lists
+""" Logic: Use a loop to go through the linked
+           lists, store the smaller value in the 
+           new result linkedlist."""
 
 def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
   result = ListNode()
