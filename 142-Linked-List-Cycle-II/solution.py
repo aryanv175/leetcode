@@ -3,6 +3,15 @@ class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
+        
+ # 876. Linked List Cycle II
+""" Logic: Use a loop to go through the linked
+           lists, for every iteration we will have
+           the single pointer move at half the speed
+           of the double pointer. If there is a cycle.
+           there will be a point where the single and
+           double pointer will meet. Otherwise, we return
+           null."""
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
