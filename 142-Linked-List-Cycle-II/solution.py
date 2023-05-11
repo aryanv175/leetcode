@@ -4,7 +4,7 @@ class ListNode:
         self.val = x
         self.next = None
         
- # 876. Linked List Cycle II
+ # 142. Linked List Cycle II
 """ Logic: Use a loop to go through the linked
            lists, for every iteration we will have
            the single pointer move at half the speed
