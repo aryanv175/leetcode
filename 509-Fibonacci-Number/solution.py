@@ -1,3 +1,8 @@
+# 509. Fibonacci Number
+""" Logic: This problem is extremely basic, 
+           we are just meant to calculate 
+           the fibonacci series."""
+
 def fib(self, N: int) -> int:
         dp = [0 for x in range(N+1)]
         dp[0] = 0
