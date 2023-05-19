@@ -7,3 +7,5 @@ You can either start from the step with index 0, or the step with index 1.
 Return the minimum cost to reach the top of the floor.
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/e821a58a-9e6d-473f-af25-d909c8c78fd8)
+
+![image](https://github.com/aryanv175/leetcode/assets/91381804/90a98248-079c-499a-838d-1560c2b9efdd)
