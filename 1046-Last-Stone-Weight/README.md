@@ -11,3 +11,5 @@ At the end of the game, there is at most one stone left.
 Return the weight of the last remaining stone. If there are no stones left, return 0.
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/b42de713-d72b-4fc3-a6e8-a51ac25cc6c9)
+
+![image](https://github.com/aryanv175/leetcode/assets/91381804/ccb6ef80-7d09-44ea-8859-23eb3c3f9977)
