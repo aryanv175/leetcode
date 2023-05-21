@@ -3,7 +3,7 @@
           The default heap in python is a MinHeap, so to get a 
           max heap, we will make all the current values negative.
           Then we use heappop to get the max values, once we have those
-          we heappush the -1*(differnce). Then we heapify again because
+          we heappush the -1*(difference). Then we heapify again because
           heappush inserts it at the end of the heap. Then we return the 
           remaining value in the heap after making it positive."""
 
