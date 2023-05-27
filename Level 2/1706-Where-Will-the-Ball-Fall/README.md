@@ -10,6 +10,6 @@ We drop one ball at the top of each column of the box. Each ball can get stuck i
 
 Return an array answer of size n where answer[i] is the column that the ball falls out of at the bottom after dropping the ball from the ith column at the top, or -1 if the ball gets stuck in the box.
 
-![image](https://github.com/aryanv175/leetcode/assets/91381804/00c2535b-9446-4029-89a2-b5d26d2a13e0)
+![image](https://github.com/aryanv175/leetcode/assets/91381804/67131255-f480-4874-8e8f-92405b7b582c)
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/44dc557c-7c25-4203-b347-e8558da330e2)
