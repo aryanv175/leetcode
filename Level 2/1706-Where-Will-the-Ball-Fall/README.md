@@ -12,3 +12,4 @@ Return an array answer of size n where answer[i] is the column that the ball fal
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/00c2535b-9446-4029-89a2-b5d26d2a13e0)
 
+![image](https://github.com/aryanv175/leetcode/assets/91381804/44dc557c-7c25-4203-b347-e8558da330e2)
