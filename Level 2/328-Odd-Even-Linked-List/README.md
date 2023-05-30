@@ -10,3 +10,4 @@ You must solve the problem in O(1) extra space complexity and O(n) time complexi
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/d38d9783-c8ce-447a-8639-751fd1d7ce20)
 
+![image](https://github.com/aryanv175/leetcode/assets/91381804/cb4a99af-400f-47aa-8c37-50202e0f4e8a)
