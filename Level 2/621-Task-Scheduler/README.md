@@ -8,3 +8,4 @@ Return the least number of units of times that the CPU will take to finish all t
 
 <img width="557" alt="image" src="https://github.com/aryanv175/leetcode/assets/91381804/8a0effb6-d2f8-47b0-8679-887f3af61e5a">
 
+![image](https://github.com/aryanv175/leetcode/assets/91381804/47173f6a-297b-4d75-b506-8739d9454491)
