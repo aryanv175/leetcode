@@ -6,3 +6,6 @@ The diameter of a binary tree is the length of the longest path between any two 
 
 The length of a path between two nodes is represented by the number of edges between them.
 
+![image](https://github.com/aryanv175/leetcode/assets/91381804/bcb58ebb-332a-446c-8651-e44b465b904e)
+
+![image](https://github.com/aryanv175/leetcode/assets/91381804/fac08440-a631-4403-95c4-40290b24b784)
