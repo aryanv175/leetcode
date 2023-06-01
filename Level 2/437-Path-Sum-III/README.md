@@ -6,3 +6,4 @@ The path does not need to start or end at the root or a leaf, but it must go dow
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/29a38785-8aa4-4016-872e-9e2b1ebae2d4)
 
+![image](https://github.com/aryanv175/leetcode/assets/91381804/8bfd9a46-f8d6-4cc1-8e69-ac3d85cf9a36)
