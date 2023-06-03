@@ -8,4 +8,6 @@ Given the array nums after the possible rotation and an integer target, return t
 
 You must write an algorithm with O(log n) runtime complexity.
 
- 
+![image](https://github.com/aryanv175/leetcode/assets/91381804/16105998-811d-406a-b0ec-fff50d9918c4)
+
+![image](https://github.com/aryanv175/leetcode/assets/91381804/9e7ea0a9-f510-4758-88b9-8986740526dd)
