@@ -9,3 +9,5 @@ The island receives a lot of rain, and the rain water can flow to neighboring ce
 Return a 2D list of grid coordinates result where result[i] = [ri, ci] denotes that rain water can flow from cell (ri, ci) to both the Pacific and Atlantic oceans.
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/69a35c56-4107-4133-be6b-e72e035815bb)
+
+![image](https://github.com/aryanv175/leetcode/assets/91381804/f2b8246e-45f1-4044-a706-81bd92053ea3)
