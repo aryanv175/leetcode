@@ -5,3 +5,5 @@ Problem Statement: You are a professional robber planning to rob houses along a 
 Given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight without alerting the police.
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/f17db82f-6cf0-45ef-8574-8ad5eff5c8d4)
+
+![image](https://github.com/aryanv175/leetcode/assets/91381804/08ce5817-a13f-4791-ab5d-78fbac06fc8f)
