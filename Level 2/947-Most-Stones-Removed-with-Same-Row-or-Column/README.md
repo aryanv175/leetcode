@@ -8,4 +8,4 @@ Given an array stones of length n where stones[i] = [xi, yi] represents the loca
 
 ![image](https://github.com/aryanv175/leetcode/assets/91381804/ebe3e853-306b-4427-88d8-9fa66a566cfd)
 
-![image](https://github.com/aryanv175/leetcode/assets/91381804/1c307f61-7e6c-4243-9e8d-c8ffa6820ca7)
+![image](https://github.com/aryanv175/leetcode/assets/91381804/2fba4142-6cb0-4b57-9c81-28affcd0fe0f)
