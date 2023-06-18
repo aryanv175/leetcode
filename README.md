@@ -1,2 +1,2 @@
 # leetcode
-Leetcode Solutions for level 1 of the blind 75 problems.
+Leetcode Solutions for Level 1 & 2 of the blind 75 problems.
